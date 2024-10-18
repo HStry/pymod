@@ -14,6 +14,6 @@ class UNSET(object):
         return False
     
     def __repr__(self):
-        return '<UNSET>'
+        return "<{self.__class__.__name__}>"
 
 UNSET = UNSET()
