@@ -1,4 +1,4 @@
-"""argparse patches"""
+"argparse patches"
 
 __all__ = ['argparse']
 
